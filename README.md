@@ -1,7 +1,7 @@
 # 언론사별 정치 편향성 분석 (Media Political Bias Analysis)
+![언론사별 정치 편향성](https://github.com/user-attachments/assets/85031f75-f910-41aa-917d-361bf7c09d0a)
 
 ## 📌 프로젝트 개요
-![언론사별 정치 편향성](https://github.com/user-attachments/assets/85031f75-f910-41aa-917d-361bf7c09d0a)
 본 프로젝트는 국내 주요 언론사의 기사 데이터를 수집하여, 자연어 처리(NLP) 기반 기법을 활용해 언론사별 정치적 편향성을 분석하고 시각화한 것입니다.  
 편향성 점수, 토픽 분포, 감성 분석 등을 종합적으로 활용하여 각 언론사의 보도 성향을 계량적으로 측정하였습니다.
 
