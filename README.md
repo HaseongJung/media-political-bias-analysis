@@ -99,12 +99,12 @@ project/
 ---
 
 ## 🛠️ 기술 스택
-- Python 3.10
-- Pandas, NumPy
-- BeautifulSoup, Requests
-- KoNLPy, Okt
-- Scikit-learn, Gensim
-- Matplotlib, Seaborn, Plotly
-- WordCloud, UMAP
+- Python
+- Pandas
+- BeautifulSoup, Request, Selenium
+- Multiprocessing
+- KoNLPy, Okt, Mekab
+- Transformers
+- Plotly
 
 ---
